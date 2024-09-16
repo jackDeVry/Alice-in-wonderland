@@ -1,21 +1,26 @@
 {
-  "users": [],
   "publish": {
-    "publishPagesApp": false,
-    "publishSHA": "",
-    "publishISODate": ""
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": ""
   },
+  "users": [],
   "project": {
-    "title": "Zora Neale Hurston’s Works Progress Administration Recordings",
-    "description": "",
-    "language": "",
-    "slug": "",
+    "github_org": "jackDeVry",
+    "title": "Alice in Wonderland ",
+    "description": "An exploration on the first chapter of Alice in Wonderland",
+    "language": "en",
+    "slug": "Alice-in-wonderland",
+    "creator": "jackDeVry",
     "authors": "",
-    "mediaPlayer": "universal",
-    "autoPopulateHomePage": "true",
-    "additionalUsers": [],
-    "": {},
-    "createdAt": "",
-    "updatedAt": ""
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [],
+      "tags": []
+    },
+    "created_at": "2024-09-16T18:48:26.364Z",
+    "updated_at": "2024-09-16T18:48:26.364Z"
   }
 }
